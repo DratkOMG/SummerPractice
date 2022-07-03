@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">SummerPractice22</string>
-    <string name="menu_main">Main</string>
-    <string name="menu_search" translatable="false">Search</string>
-    <string name="menu_reels" translatable="false">Reels</string>
-    <string name="menu_activate" translatable="false">Activate</string>
-    <string name="menu_profile">Profile</string>
-</resources>
